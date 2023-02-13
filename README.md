@@ -1,2 +1,2 @@
-# Pandas_Project
-Project on Pandas 
+# Application of Pandas
+Project on Application of Pandas 
