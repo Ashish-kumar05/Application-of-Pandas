@@ -6,24 +6,24 @@ Pandas is an open source Python package that is most widely used for data scienc
 
 # What Can We Do With DataFrames Using Pandas?
 
-Data cleansing
-Data fill
-Data normalization
-Merges and joins
-Data visualization
-Statistical analysis
-Data inspection
+Data cleansing<br>
+Data fill<br>
+Data normalization<br>
+Merges and joins<br>
+Data visualization<br>
+Statistical analysis<br>
+Data inspection<br>
 Loading and saving data
 
 # Key Features of Pandas
 
-It has a fast and efficient DataFrame object with the default and customized indexing.
-Used for reshaping and pivoting of the data sets.
-Group by data for aggregations and transformations.
-It is used for data alignment and integration of the missing data.
-Provide the functionality of Time Series.
-Process a variety of data sets in different formats like matrix data, tabular heterogeneous, time series.
-Handle multiple operations of the data sets such as subsetting, slicing, filtering, groupBy, re-ordering, and re-shaping.
+It has a fast and efficient DataFrame object with the default and customized indexing.<br>
+Used for reshaping and pivoting of the data sets.<br>
+Group by data for aggregations and transformations.<br>
+It is used for data alignment and integration of the missing data.<br>
+Provide the functionality of Time Series.<br>
+Process a variety of data sets in different formats like matrix data, tabular heterogeneous, time series.<br>
+Handle multiple operations of the data sets such as subsetting, slicing, filtering, groupBy, re-ordering, and re-shaping.<br>
 It integrates with the other libraries such as SciPy, and scikit-learn.
 
 # Benefits of Pandas
